@@ -1,0 +1,49 @@
+Nämn fyra behandlingsmetoder för hushållsavfall och vad innebär de i grova drag; vilka
+eventuella ”nyttor” produceras? Vilka är de två vanligaste behandlingsmetoderna för
+hushållsavfall i Sverige?
+//
+1 - Energiåtervinning
+Bränna avfall som ej kan materialåtervinnas → utvinna el & fjärrvärme
+2 - Materialåtervinning (metaller, papper, glas, plast, textilier)
+Glas & metall kan teoretiskt återvinnas i oändlighet (förutsatt ingen kontaminering)
+Papper & plast nedgraderas vid återvinning
+3 - Biologisk återvinning - “Det huvudsakliga syftet med biologisk återvinning är att cirkulera
+näringsämnen i samhället för att på så sätt sluta kretsloppet.”
+Rötning - matavfall + livsmedelsindustriavfall → biogödsel + biogas
+Kompost - trädgårdsavfall → kompostjord
+4 - Deponering
+Lagring av avfall → används primärt för att separera farliga ämnen från kretsloppet
+////
+Vilken avfallsbehandlingsmetod lämpar sig bäst för matavfall och varför?
+//
+Biologisk återvinning (rötning) → biogödsel + biogas
+////
+Förklara de olika stegen i EU:s avfallshierarki (avfallstrappan) och logiken bakom
+hierarkin?
+//
+Grundläggande idé: förebygga miljöeffekter som skapas genom avfall & minimera användning
+av primära resurser
+1 - Förebyggande
+2 - Återanvändning
+3 - Materialåtervinning
+4 - Energiåtervinning
+5 - Deponering/Destruktion
+////
+Vad innebär producentansvar och vad syftar det till? Nämn några produktgrupper som
+omfattas av producentansvar.
+//
+Producentansvar berör företag som tillverkar, säljer eller importerar särskilda produkter.
+Företagen ansvarar för och bekostar för insamling samt omhändertagande av uttjänta
+produkter. Produktgrupper: Förpackningar, Elutrustning (elektronik etc.), Batterier
+////
+Beskriv några utmaningar för att uppnå cirkulär ekonomi (de högre stegen i
+avfallshierarkin).
+Vad reglerar Baselkonventionen?
+//
+Konsumtionsvanor - Är samhället beredda att köpa dyrare produkter som håller längre
+Ekonomiska aspekter - Jungfruliga råvaror är billiga att utvinna, reparationer är dyra
+Återvinningsbarhet - Nedgradering av material → Går inte att återvinna i oändlighet
+Baselkonventionen är ett globalt avtal som förbjuder export av farligt avfall från EU- och
+OECD-länder till övriga länder. Syftet är att förhindra att farligt avfall exporteras till områden med
+svag infrasruktur som inte kan ta hand om avfallet på ett milljö- och hälsosäkert sätt.
+////

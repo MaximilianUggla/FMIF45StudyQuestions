@@ -1,0 +1,35 @@
+Vad som är ett miljögift eller riskkemikalie bedöms ofta utifrån tre egenskaper (PBT).
+Vilka är dessa och vad innebär de? Vilka av dessa egenskaper är särskilt viktiga för
+organiska miljögifter ur ett miljöperspektiv och varför?
+//
+P - Persistenta, svårnedbrytbara
+B - Bioackumuleras, samlas i organismer med tiden
+T - Toxiska, giftiga för organismer
+Viktigast för organiska miljögifter: P och B är särskilt kritiska eftersom de gör att även små
+utsläpp över tid kan leda till höga koncentrationer i djur och människor.
+////
+Vad innebär begreppet biomagnifiering?
+//
+Innebär att koncentrationen av ett miljögift ökar ju högre upp i näringskedjan man kommer.
+Toppredatorer (som sälar eller örnar) får i sig de samlade gifterna från alla bytesdjur de äter.
+////
+Ge ett par exempel på både organiska miljögifter och toxiska metaller.
+//
+organiska miljögifter - DDT, dioxiner, Bromerade flamskyddsmedel, PFAS
+toxiska metaller - Bly, Kvicksilver, Kadmium.
+////
+Ange/beskriv några viktiga spridningsvägar för miljögifter till miljön.
+//
+Brytning och bearbetning av mineraler
+Tillverkning, användning, och avfallshantering av produkter
+Medeveten miljöspridning
+Oönskad spridning
+////
+Vad regleras av EU-direktivet RoHS?
+//
+Begränsar vissa farliga kemiska ämnen i elektrisk och elektronisk utrustning
+kvicksilver
+kadmium
+bly
+Syftet är att skydda människors hälsa och miljön vid både användning och avfallshantering.
+////

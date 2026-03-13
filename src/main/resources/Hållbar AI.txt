@@ -1,0 +1,9 @@
+Hur kan AI bidra positivt till hållbarhet? (se även Introduktionsföreläsning).
+//
+Optimering, jobba mer effektivt jämrfört med människor, skapa prediktionsmodeller
+////
+På vilket sätt kan AI ha negativ påverkan på miljömässig och social hållbarhet? (Se även föreläsningarna om företags hållbarhetsarbete och energi)
+//
+Miljömässigt: Datacenter → energiförbrukning
+Socialt: Eliminera jobbmöjligheter, “överautomatisering”
+////

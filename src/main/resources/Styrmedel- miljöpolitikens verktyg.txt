@@ -1,0 +1,95 @@
+Styrmedel kan kategoriseras på många sätt. Tre huvudsakliga kategorier är regleringar (administrativa), ekonomiska och informativa styrmedel. På vilket sätt styr respektive styrmedelskategori; för och nackdelar med de olika styrsätten? Ge exempel på konkreta styrmedel inom miljöområdet för respektive kategori.
+//
+Regleringar
+Miljöprövningar
+UtsläppskravFörbud för farliga ämnen
+Ex
+Är en styrningsprincip som är tvingande och ex. är miljöbalken och specialregleringar.
+Typer är miljöbalkens allmänna hänsynsregler, individuell tillståndsprövning, förbud,
+produktkrav, reduktionsplikt (Drivmedel) och planeringskrav/miljökvalitetsnormer.
+Fördelar:
+Kan innehålla integrerad prövning av flera målparametrar vid stora investeringar
+Förbud lämpliga för att fasa ut farliga ämnen
+Kan vara lämplig för att hantera lokala och regionala miljöeffekter och där det är svårt
+att hitta en lämplig prisbildningsmekanism
+Kan ge lägre kostnader för enskilda och företag än ett pris på utsläpp
+Produktregleringar kan hantera informationsproblem
+Nackdelar:
+Kräver mycket kunskap hos regleraren
+Ger inte samma incitament för ständiga förbättringar som ett prisstyrmedel
+Ekonomiska styrmedel
+Skatter
+Utsläppshandel
+Subventioner
+Ex
+Är en styrningsprincip vari det antingen är frivilligt agerande men individens/företagets
+ekonomi påverkas, eller så är det genom utnyttjande av marknadsmekanism. Typer är
+skatter och avgifter, värdepapperisering (utsläppsrätter, elcertifikat) och subventioner.
+Nivån kan styras av uppskattade miljökostnader, skattad nivå för måluppfyllnad och
+budgetbehov/restriktioner. Nivån kan sedan bestämmas av beslutsfattare genom
+skatter, avgifter och subventioner.
+Nivån kan indirekt bestämmas av marknaden genom:
+Efterfrågan av värdepapper (utsläppsrätter, elcertifikat) som drivs av politiska
+mål/regleringar
+Priser bestäms på marknaden utifrån tillgång och efterfrågan
+Priset beror av politiska ambitioner och kostnader för åtgärder
+Miljöstyrande skatter och avgifter (exempel):
+Koldioxid- och energiskatt Påverkar bränsleval (Fossila bränslen ersattes med bioenergi
+från fjärrvärmesystemet) Styr mot effektivare teknik Påverkar beteende genom ex.
+minskad biltrafik
+Svavelskatt
+Kväveoxidavgifter
+FordonsskattSkatt på flygresor
+Pant
+Fördelar:
+Främjar kostnadseffektivitet genom att låta marknadskrafterna påverka.
+Kan skapa ekonomiska incitament för innovation och investeringar.
+Nackdelar:
+Kräver ofta noggrann övervakning och hantering för att förhindra fusk.
+Risk för att påverka låginkomstgrupper mer negativt.
+Information
+Märkning
+Kampanjer
+Rådgivning
+Ex
+Märkning, kampanjer, rådgivning, offentliggörande av miljöprestanda för företag, mål
+och visioner
+Använder information och kommunikation för att påverka beteendet genom
+medvetenhet och kunskap.
+Fördelar:
+Lägre kostnader jämfört med regleringar och ekonomiska styrmedel.
+Kan främja ett bredare samhällsengagemang och medvetenhet.
+Nackdelar:
+Mindre direkt kontroll över företagens beteende.
+Kan vara mindre effektiva utan kompletterande åtgärder.
+////
+Beskriv några faktorer som påverkar lämpligheten hos ett styrmedel och om det är möjligt att införa eller inte.
+//
+Måluppfyllelse
+Kostnadseffektivitet
+Fördelningsaspekter
+Rättssäkerhet, transparens, förutsägbarhet
+////
+I miljöbalken finns ett antal allmänna hänsynsregler. Nämn och förklara kort två av dessa.
+//
+Hänsynsregler- “Alla som bedriver eller avser att bedriva en verksamhet eller vidta en åtgärd
+skall skaffa sig den kunskap som behövs med hänsyn till verksamhetens eller åtgärdens art och
+omfattning för att skydda människors hälsa och miljön mot skada eller olägenhet.”
+Val av plats - “För en verksamhet eller åtgärd som tar i anspråk ett mark- eller vattenområde ska
+det väljas en plats som är lämplig med hänsyn till att ändamålet ska kunna uppnås med minsta
+intrång och olägenhet för människors hälsa och miljön.”
+////
+Handel med utsläppsrätter är ett centralt styrmedel inom klimatpolitiken i EU. Förklara
+kortfattat huvudprincipen för detta styrmedel. Vad den grundläggande skillnaden
+gentemot koldioxidskatt?
+//
+Utsläppsrätter börjar med att man definierar ett utsläppsutrymme för ingående anläggningar
+motsvarande miljöambition. Vid ambitionshöjning så krymps denna bubblan. Det fortsätter med
+en utdelning av motsvarande mängd utsläppsrätter till anläggningarna (gratis eller försäljning)
+och har som krav att anläggningarna lämnar in utsläppsrätter motsvarande sina utsläpp
+(sanktion om kravet inte följs).
+Anläggning med underskott kan:
+- Minska utsläppet genom tekniska åtgärder eller produktionsminskningar
+- Köpa utsläppsrätter av företag med överskott (eller staten vid en auktionering)
+Ju färre tilldelade utsläppsrätter desto högre pris, och ju dyrare åtgärder desto högre pris.
+////

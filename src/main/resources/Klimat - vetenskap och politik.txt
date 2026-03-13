@@ -1,0 +1,63 @@
+Hur fungerar växthuseffekten (växthusgaser, strålning, bortse från siffror)? Vad menas
+med naturlig respektive förstärkt växthuseffekt?
+//
+Solen strålar kortvågig (synlig) energi i form av ljus. Detta ljus tränger igenom atmosfären och
+värmer upp jorden. En del av värmen stannar kvar, samtidigt som en annan del av energin
+transformeras till långvågig strålning (infrarött). IR-energin studsar tillbaka upp genom
+atmosfären, men på grund av växthusgaser (koldioxid, metan och vattenånga) fastnar en del av
+värmeenergin i atmosfären. Växthusgaserna släpper alltså in solljus, men släpper ej ut
+värmeenergi. Detta bidrar till att jorden värms upp.
+Naturlig växthuseffekt är precis att naturligt skapade växthusgaser i atmosfären inte släpper ut
+all värmeenergi, vilket bidrar till att jorden får en behagligare temperatur. En förstärkt
+växthuseffekt beror på att fler växthusgaser induceras av mänkslig faktor, vilket bidrar till en
+ökad temperatur.
+////
+Nämn de tre mest betydande antropogena växthusgaser som bidrar till global
+uppvärmning samt deras primära källor. Vilken av dessa gaser har störst/minst
+strålningsdrivande effekt (GWP) i sig och totalt sett (dvs med hänsyn till förekomsten i
+atmosfären)?
+//
+De tre mest antropogena växthusgaserna är: N2O, CH4 och CO2
+
+Gas:                Källa:                  GWP (Effekt per kg):        Bidrag till uppvärmning (Totalt):
+Koldioxid(CO2)      Fossila bränslen        Minst(1)                    Störst (ca 75%)
+Metan(CH4)          Kor, ris, soptippar     mellan (ca 28)              Mellan (ca 16%)
+Lustgas(N2O)        Gödsling, industri      Störst (Ca 270)             Minst (ca 6%)
+////
+Klimatmodellering försvåras av så kallade återkopplingsmekanismer som kan ha både
+värmande och kylande effekt. Beskriv någon sådan återkopplingsmekanism.
+//
+Ett exempel på en sådan återkopplingsmekanism är att en ökad temperatur leder till att mer
+vatten dunstar från haven, vilket ökar andelen vattenånga i atmosfären. Detta kan påverka
+molnbildning som kan ha både en förstärkande eller försvagande effekt på växthuseffekten. Ettannat exempel är albedoeffekten som innebär att mindre istäcken ger mer reflektion, vilket
+skapar ännu mer värme, vilket minskar istäckena ännu mer.
+////
+Nämn några betydande konsekvenser som den globala uppvärmningen förväntas få på
+de naturliga systemen?
+//
+Utrotning av arter. Smältning av isar och glaciärer. Höjning av havsnivån. Ökat extremväder.
+////
+Hur hänger global uppvärmning ihop med havsförsurning?
+//
+Koldioxid släpps ut i luften när fossila bränslen bränns. En del av denna CO2 hamnar i vattnet,
+och då sker kemiska reaktioner som bidrar till att vattnet blir surare och påverkar bland annat
+marina ekosystem. Samtidigt håller CO2 i luften/atmosfären kvar värme och bidrar till ett
+generellt varmare klimat.
+////
+År 1992 och 2015 innebar viktiga milstolpar i den globala klimatpolitiken. Vilka
+överenskommelser slöts då och vilka klimatmål enades man om?
+//
+1992 - UNCED at Rio (Agenda21, Rio Declaration and UNFCCC: Climate Convention
+Inga riktiga mål, men ett mantra att sträva efter: Att stabilisera koncentrationen av växthusgaser i
+atmosfären på en nivå som förhindrar farlig mänsklig påverkan på klimatsystemet
+2015 - COP21 Paris
+Huvudmål: Hålla global temperaturökning under 2 grader
+“Rikare” länder ska bidra med ekonomiskt stöd
+Stoppa växthusgaser som håller kvar värme i atmosfären. Någongång efter 2050 ska
+emissionerna vara på den nivån att skog och hav naturligt klarar av antropogena utsläpp.
+////
+Nämn några skäl till att det har varit mycket svårare att hantera klimatfrågan än vissa
+andra miljöfrågor genom internationella överenskommelser.
+//
+Historiska hållhakar, ekonomiska motkrafter.
+////

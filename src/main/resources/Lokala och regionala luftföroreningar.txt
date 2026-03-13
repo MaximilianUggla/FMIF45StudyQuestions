@@ -1,0 +1,61 @@
+Vad karaktäriserar lokala/regionala luftföroreningar till skillnad från globala
+luftföroreningar?
+//
+Lokala luftföroreningar klassificeras som mer direkt hälsopåverkande. Globala luftföroreningar
+bidrar till en förändring av klimatet (globalt). Klimatet påverkas av koldioxid och freoner. Lokala
+luftföroreningar påverkar biologiska entiter direkt negativt, exempelvis via skador på hälsa,
+försurning och övergödning. Dessa skador sker på grund av partiklar (PM10, PM2.5),
+kväveoxider samt marknära ozon.
+////
+NOx, SOx, partiklar (PM2,5 och PM10) och flyktiga organiska kolväten (VOC) är exempel
+på luftföroreningar. Vilka mänskliga aktiviteter/sektorer bidrar till utsläpp eller bildning av
+var och en av dessa luftföroreningar?
+//
+Transporter (utsläpp), Industri (utsläpp), Jordbruk (gödsel), Energi (uppvärmning)
+
+PM10 (primär)
+Ofulständig förbränning
+Slitage från (dubb)däck/vägbana/bromsar
+lokal spridning
+
+PM2,5 (primär eller sekundär)
+Ofulständig förbränning
+Sekundär: Bildas i luften från andra luftföroreningar (NOx, SO2, ammoniak)
+lokal och storregional
+////
+Vilka föroreningar orsakar försurning respektive övergödning?
+//
+Försurning: NOx & SO2 - nedfall
+Övergödning: N, P, NOx, nitrater
+////
+Hur bildas marknära ozon?
+//
+Marknära O3: NOx + VOC + solljus (UV-ljus) => O3 (sekundär förorening, bildas genom kemiska
+reaktioner i atmosfären)
+////
+Vilka miljö- och hälsoproblem är föroreningen förknippad med?
+//
+Ozonhalter är väderberoende, men kan färdas långa sträckor. För människor bidrar O3 till
+irritation av slemhinnor och luftvägar. För miljön är det största problemet minskad fotosyntes
+vilket följaktligen leder till minskad skörd och växtlighet.
+////
+Ge exempel på åtgärder som minskat utsläppen av svaveldioxid och kväveoxider.
+Vilket av de 16 svenska miljökvalitetsmålen är direkt knutet till ovanstående
+luftföroreningar?
+//
+Åtgärder kan delas in globalt, regionalt och lokal. Globala åtgärder sker via konventioner.
+Regionala åtgärder sker via t.ex. EU (utlsäppstak, utsläppskrav för fordon). Lokalt finns åtgärder
+som miljözoner.
+Miljölkvalitetsmålen: Frisk luft, Bara naturlig försurning, Giftfri miljö, Ingen övergödning
+////
+Nämn några mål som påverkas indirekt av dessa luftföroreningar.
+//
+Grundvatten av god kvalitet, Hav i balans samt levande kust och skärgård, Levande skogar, Ett
+rikt odlingslandskap, Ett rikt växt- och djurliv
+////
+Ge något exempel på hur information- och kommunikationsteknik används hos
+myndigheter i deras arbete kopplat till luftkvalitet och luftföroreningar.
+//
+Maskininlärning och prediktionsmodeller för att kunna simulera hur luftkvaliteten kan förändras
+över åren.
+////

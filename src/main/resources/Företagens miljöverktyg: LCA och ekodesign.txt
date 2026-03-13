@@ -1,0 +1,35 @@
+Vad kan ett företag använda en livscykelanalys (LCA) till, dvs vad kan motivera företaget
+att utföra en LCA?
+//
+Miljövarudeklaration & hållbarhetskriterier
+Jämföra produkter eller processer
+Testa ny teknik
+Ökad miljökunskap om företag & bransch
+“För att förbättra produkterna / tjänsterna krävs dock Livscykelanalys –
+identifiera ”hot spots” från vagga till grav”
+////
+Vad är en funktionell enhet och varför behöver man en sådan i en LCA?
+//
+En funktionell enhet beskriver ett mått på en specifik produkts duglighet. Detta används för att
+kunna jämföra olika produkter med liknande syften.
+////
+Vad präglar miljöanpassad produktutveckling (sk eko-design)? Beskriv och exemplifiera
+vad en produktutvecklare bör beakta vid eko-design av en produkt, såsom dator,
+mobiltelfon.
+//
+Ekodesign betyder att man vill ha en livscykelproduktion vari man både tar i hänsyn det inre
+kretsloppet (tillverkning) och yttre kretsloppet (produktanvändning).
+Wikipedia:
+“Ekodesign är ett begrepp för olika former av design av produkter där man vill
+energieffektivisera och hålla en klass som följer hög miljöprestanda. [...] Ekodesign innebär att
+man integrerar ett livscykelkostnadsperspektiv från utveckling, tillverkning till brukande av
+produkten och slutanvändning.”
+////
+Vad innebär det att ha ett miljöledningssystem (i korthet)?
+//
+Ett miljöledningssystem ämnar fungera som ett strukturerat hjälpmedel/verktyg som kan brukas
+för att sätta mål och ramverk samt utföra miljöarbete. Ett miljöledningssystem inbegriper ofta
+flera olika delar, därav är det vanligt att det finns olika standarder likt ISO 14001.
+Förutsättningarna för ISO 14001 gäller därför även för många andra system.
+Miljöutredning -> Miljöpolicy -> Resurser, organisation och kommunikation -> Processer, rutiner -> Avvikelsehantering -> Miljövision och lednings genomgång -> upprepa
+////

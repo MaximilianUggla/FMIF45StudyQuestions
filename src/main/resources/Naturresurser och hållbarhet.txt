@@ -1,0 +1,59 @@
+Vilka tre övergripande kategorier delas naturresurser in i och ge exempel på en
+naturresurs inom varje kategori. Hur ser grundförutsättningarna för en långsiktigt hållbar
+resursanvändning ut för respektive kategori?
+//
+Flödesresurser - kan ej lagras:solstrålning
+Fondresurser - kan degraderas/överutnyttjas:
+växter, djur
+Lagerresurser - ändlig mängd:
+återvinningsbar (mineraler)
+icke återvinningsbar (fossil energi)
+////
+Vad menas med resursbas och reserv för en metall eller mineral?
+//
+resursbas - Totala mängden av en viss resurs som finns tillgänglig
+reservbas - Mängden av en viss resurs som är ekonomiskt lönsam att utvinna
+////
+Beskriv några relevanta hållbarhetsproblem (miljömässigt och socialt) kopplat till
+gruvdrift.
+Vad utmärker en metall eller mineral som kallas "kritisk"? Ge något exempel kopplat till
+förnybar energiteknik/elektronik.
+//
+Problem
+Deponering av gråberg och sandmagasin, markanvändning, processutsläpp,
+användning av vatten/energi/kemikalier, urlakning mm.
+Risk för olyckor; ex: dammbrott, kontaminering av grundvatten och vattendrag
+Samers rättigheter och konflikter om markanvändning
+Kritisk mineral/metall - Två dimensioner (sårbarhet & supply risk), exempel: Dysprosium (Dy),
+Kobolt (Co)
+European Critical Minerals Act, 2023 - 34 råmaterial pekas ut som kritiska
+////
+Vad menas med konfliktmineral?
+//
+Mineral som utvinns i oroshärdar och finanserar konflikter, t.ex: 3TG (tenn, volfram(tungsten),
+tantal, guld)
+////
+Vissa menar att resursbegränsningar inte är ett problem då naturresurser kan
+substitueras, medan andra menar att denna möjlighet kan vara begränsad. Ge något
+exempel på naturresurser som troligtvis har begränsad substituerbarhet.
+//
+Fosfor i konstgödsel, vatten
+////
+Ge exempel och beskriv övergripande strategier för att minska användningen av primära
+naturresurser.
+//
+Cirkulär ekonomi och resursoptimering:
+Att förlänga livslängden på produkter genom att reparera, hyra, låna eller köpa begagnat
+minskar behovet av jungfruliga material.
+Att designa produkter för att kunna plockas isär och återvinnas gör att material kan användas på
+nytt, vilket minskar behovet av nya råvaror.
+Överskottsenergi eller materialspill från en industri kan bli en resurs för en annan, vilket sluter
+resursloopar.
+Energiomställning och förnybara resurser:
+Att ersätta fossila bränslen med sol-, vind- och bioenergi minskar utarmningen av ändliga
+resurser.
+Att öka energieffektiviteten.
+Politiska styrmedel och strategier:
+Statliga riktlinjer, skatter och förbud mot engångsartiklar natur resurser.
+EU satsningar till syfte att minska resursberoendet.
+////
