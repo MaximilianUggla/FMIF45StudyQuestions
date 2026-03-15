@@ -10,7 +10,8 @@ välja lämpliga värdekedjor (leverantörer som fokuserar på HU)
 Ekonomiskt
 Långsiktig lönsamhet - skapa värde för företag och samhälle över tid
 Investering och affärsmodeller som bidrar positivt till både företag och miljö
-Ansvarsfulla affärer → inget skattefiffel, ingen korruption, transparensSocialt
+Ansvarsfulla affärer → inget skattefiffel, ingen korruption, transparens
+Socialt
 Trygg och hälsosam arbetsmiljö
 Rättvisa löner och arbetstider
 Mångfald
@@ -20,4 +21,3 @@ Ge exempel på drivkrafter bakom företags hållbarhetsarbete. Lagkrav?
 //
 Drivkrafter: lagar, sociala normer, förväntningar/krav från kunder & investerare
 EU-lag → CSRD, ESRS
-////
