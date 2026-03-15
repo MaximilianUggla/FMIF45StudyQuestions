@@ -41,15 +41,12 @@ vilket följaktligen leder till minskad skörd och växtlighet.
 ////
 Ge exempel på åtgärder som minskat utsläppen av svaveldioxid och kväveoxider.
 Vilket av de 16 svenska miljökvalitetsmålen är direkt knutet till ovanstående
-luftföroreningar?
+luftföroreningar? Nämn några mål som påverkas indirekt av dessa luftföroreningar.
 //
 Åtgärder kan delas in globalt, regionalt och lokal. Globala åtgärder sker via konventioner.
 Regionala åtgärder sker via t.ex. EU (utlsäppstak, utsläppskrav för fordon). Lokalt finns åtgärder
 som miljözoner.
 Miljölkvalitetsmålen: Frisk luft, Bara naturlig försurning, Giftfri miljö, Ingen övergödning
-////
-Nämn några mål som påverkas indirekt av dessa luftföroreningar.
-//
 Grundvatten av god kvalitet, Hav i balans samt levande kust och skärgård, Levande skogar, Ett
 rikt odlingslandskap, Ett rikt växt- och djurliv
 ////
@@ -58,4 +55,3 @@ myndigheter i deras arbete kopplat till luftkvalitet och luftföroreningar.
 //
 Maskininlärning och prediktionsmodeller för att kunna simulera hur luftkvaliteten kan förändras
 över åren.
-////
