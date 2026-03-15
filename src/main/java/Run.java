@@ -5,7 +5,7 @@ import java.util.*;
 public class Run {
     private static final String startPath = "src/main/resources/";
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         List<String> files = getNames();
 
         Map<String, String[]> map = new HashMap<String, String[]>();
@@ -23,6 +23,7 @@ public class Run {
 
             while (scan.hasNextLine()) {
                 str += scan.nextLine();
+                str += "\n";
             }
 
             map.put(fileName, str.split("////"));
@@ -36,9 +37,16 @@ public class Run {
                 System.out.println(parts[0]);
                 Scanner scan = new Scanner(System.in);
                 System.out.println("Press enter to reveal answer: ");
+                System.out.println();
+                System.out.println();
+                System.out.println();
+                System.out.println();
+                System.out.println();
+                System.out.println();
                 String answer = scan.nextLine();
                 System.out.println(parts[1]);
                 System.out.println();
+                Thread.sleep(1000);
                 System.out.println("Press enter to reveal next question: ");
                 String press = scan.nextLine();
                 System.out.println();
@@ -59,17 +67,17 @@ public class Run {
 
     private static List<String> getNames() {
         List<String> files = new ArrayList<String>();
-        files.add(startPath + "Introduktion till begreppet hållbar utveckling.txt");
         files.add(startPath + "Lokala och regionala luftföroreningar.txt");
-        files.add(startPath + "Energi.txt");
         files.add(startPath + "Klimat - vetenskap och politik.txt");
-        files.add(startPath + "Naturresurser och hållbarhet.txt");
-        files.add(startPath + "Miljögifter och toxiska metaller.txt");
-        files.add(startPath + "Avfallshantering och resurshushållning.txt");
         files.add(startPath + "Hållbar utveckling i ett företagsperspektiv.txt");
         files.add(startPath + "Företagens miljöverktyg: LCA och ekodesign.txt");
         files.add(startPath + "Hållbar AI.txt");
         files.add(startPath + "Styrmedel- miljöpolitikens verktyg.txt");
+        files.add(startPath + "Energi.txt");
+        files.add(startPath + "Introduktion till begreppet hållbar utveckling.txt");
+        files.add(startPath + "Avfallshantering och resurshushållning.txt");
+        files.add(startPath + "Miljögifter och toxiska metaller.txt");
+        files.add(startPath + "Naturresurser och hållbarhet.txt");
         return files;
     }
 }

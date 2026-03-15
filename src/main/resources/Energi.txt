@@ -4,57 +4,42 @@ Vilka energislag dominerar den globala respektive svenska energiförsörjningen
 Globalt: Kol, olja, naturgas
 Sverige: Olja, kärnbränsle, biobränsle
 ////
-Beskriv några betydande hållbarhetsproblem (och vad de beror på) med dagens
-energiförsörjning ur ett globalt perspektiv.
+Beskriv några betydande hållbarhetsproblem (och vad de beror på) med dagens energiförsörjning ur ett globalt perspektiv.
 //
-Miljöproblem: Klimatpåverkan (fossila bränslen och avskogning), försurning, försämdrad
-luftkvalitet
+Miljöproblem: Klimatpåverkan (fossila bränslen och avskogning), försurning, försämdrad luftkvalitet
 Geopolitiska konflikter på grund av råvaror
 Energifattigdom (social hållbarhet)
 ////
 Ange/beskriv (kort) 4 principiellt olika strategier för att minska energisystemens
 klimatpåverkan.
 //
-minska energianvändning: effektivisera använding (mindre energi för samma mängd jobb),
+minska energianvändning: effektivisera använding (mindre energi för samma mängd jobb)
 beteendeförändringar (kallare inomhus, cykla, normer)
-förnybara energikällor: stor tillväxtpotiential hos vindkraft och solenergi, förnybara energikällor
-har fler drivkrafter än enbart klimat t.ex minskat importberoende, regional utveckling, luftkvalitet
-kärnkraft: positivt: koldioxidfri drift, planerbar, negativt: olycksrisk, avfallsförvaring, dyrt/ineffektivt
-bygge (svårbedömd investering)
-koldioxidinfångning: fånga in koldioxid från rökgaser, komprimera till flytande form och lagra
-djupt under jord/berggrund
-
-Status, möjligheter och utmaningar:
-Skalekonomi - kräver stora punktkällor
-Känd teknik, men mycket begränsad användning
-Fossil-CCS: inga mervärden (jmf förnybar)
-Tar bort ca 90% CO2 men sänker verkningsgraden (processen kräver energi)
-Stort intresse för bio-CCS som kan ge minus-utsläpp. Hur då?
-Stor global lagringskapacitet
-Kräver internationella överenskommelser kring lagring o ansvar (läckage?)
-Nordsjön
+förnybara energikällor: stor tillväxtpotiential hos vindkraft och solenergi, förnybara energikällor har fler drivkrafter
+än enbart klimat t.ex minskat importberoende, regional utveckling, luftkvalitet
+kärnkraft: positivt: koldioxidfri drift, planerbar, negativt: olycksrisk, avfallsförvaring, dyrt/ineffektivt bygge
+(svårbedömd investering)
+koldioxidinfångning: fånga in koldioxid från rökgaser, komprimera till flytande form och lagra djupt under
+jord/berggrund
 ////
-Vilka är de potentiellt främsta miljö/hållbarhetsproblemen för: kärnkraft, bioenergi,
-vattenkraft, solceller och vindkraft ?
+Vilka är de potentiellt främsta miljö/hållbarhetsproblemen för: kärnkraft, bioenergi, vattenkraft, solceller och
+vindkraft ?
 //
 Kärnkraft: Långlivat kärnavfall som kan utgöra en fara för människor och miljö i tusentals år.
-Risk för radioaktiv förorening vid olyckor eller felaktig hantering av kärnbränsle. Energiintensiv
-och resurskrävande hantering av kärnbränsle.
-Bioenergi: Kan vara en hållbar energikälla om den framställs på ett ansvarsfullt sätt. För att
-produktionen av biomassa ska vara hållbar får den inte orsaka långsiktig avskogning, minska
-den biologiska mångfalden, hota markens långsiktiga produktionsförmåga, försämra mark- ellervattenkvalitet eller orsaka utsläpp av föroreningar. Koldioxidutsläpp vid förbränning av
-biomassa.
-Vattenkraft: Sker utan utsläpp av växthusgaser eller föroreningar. Däremot orsakar utbyggnaden
-av vattenkraftverk skada på biologisk mångfald och natur i den omedelbara närheten. Därtill
-orsakar onaturliga variationer i vattenflöde också skada på biologisk mångfald och natur
-nedströms. Stora mängder metangasutsläpp vid byggandet av dammar.
-Solceller: Miljövänlig källa till energi, men måste i Sverige kombineras med andra energikällor
-då vi har få soltimmar på vintern. När solceller placeras ut bör de monteras på befintlig
-infrastruktur (ex. hustak) för att minimera negativ miljöpåverkan. Resurskrävande produktion,
-miljöproblem vid avfallshanteringen.
-Vindkraft: Stör djurliv och ekosystem när de placeras i naturområden (kan även döda fåglar).
-Behov av stora ytor, risk för höga ljudnivåer och skuggkastning (kan inte placeras för nära
-bostadsområden).
+Risk för radioaktiv förorening vid olyckor eller felaktig hantering av kärnbränsle. Energiintensiv och resurskrävande
+hantering av kärnbränsle.
+Bioenergi: Kan vara en hållbar energikälla om den framställs på ett ansvarsfullt sätt. För att produktionen av biomassa
+ska vara hållbar får den inte orsaka långsiktig avskogning, minska den biologiska mångfalden, hota markens långsiktiga
+produktionsförmåga, försämra mark- ellervattenkvalitet eller orsaka utsläpp av föroreningar. Koldioxidutsläpp vid
+förbränning av biomassa.
+Vattenkraft: Sker utan utsläpp av växthusgaser eller föroreningar. Däremot orsakar utbyggnaden av vattenkraftverk skada
+på biologisk mångfald och natur i den omedelbara närheten. Därtill orsakar onaturliga variationer i vattenflöde också
+skada på biologisk mångfald och natur nedströms. Stora mängder metangasutsläpp vid byggandet av dammar.
+Solceller: Miljövänlig källa till energi, men måste i Sverige kombineras med andra energikällor då vi har få soltimmar
+på vintern. När solceller placeras ut bör de monteras på befintlig infrastruktur (ex. hustak) för att minimera negativ
+miljöpåverkan. Resurskrävande produktion, miljöproblem vid avfallshanteringen.
+Vindkraft: Stör djurliv och ekosystem när de placeras i naturområden (kan även döda fåglar). Behov av stora ytor, risk
+för höga ljudnivåer och skuggkastning (kan inte placeras för nära bostadsområden).
 ////
 Ge exempel på hur datacenter kan bli mer energieffektiva samt minska sin
 klimatpåverkan på annat sätt.
@@ -67,11 +52,9 @@ och optimering av mjukvara, kvantdatorer
 3 - förnybar elanvändning
 Optimera PUE (Power Use Effectiveness)
 ////
-Utvecklingen mot större andel sol- och vindkraft inom elproduktionen ökar behovet av
-flexibilitet i andra delar av energisystemet. Varför då? Ge några exempel på
-lösningar/tekniker som kan bidra med flexibilitet.
+Utvecklingen mot större andel sol- och vindkraft inom elproduktionen ökar behovet av flexibilitet i andra delar av
+energisystemet. Varför då? Ge några exempel på lösningar/tekniker som kan bidra med flexibilitet.
 //
 Sol- och vindkraft är en variabel energikälla. Det finns exempelvis inte solljus dygnet runt. Därav
 krävs flexibilitet, t.ex: flexibel elanvändning, energilager (batterier, pumpkraft), geografisk
 utvidgning/sammansvetsning
-////

@@ -32,4 +32,3 @@ kvicksilver
 kadmium
 bly
 Syftet är att skydda människors hälsa och miljön vid både användning och avfallshantering.
-////

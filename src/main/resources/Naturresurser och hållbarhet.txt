@@ -3,11 +3,8 @@ naturresurs inom varje kategori. Hur ser grundförutsättningarna för en långs
 resursanvändning ut för respektive kategori?
 //
 Flödesresurser - kan ej lagras:solstrålning
-Fondresurser - kan degraderas/överutnyttjas:
-växter, djur
-Lagerresurser - ändlig mängd:
-återvinningsbar (mineraler)
-icke återvinningsbar (fossil energi)
+Fondresurser - kan degraderas/överutnyttjas: växter, djur
+Lagerresurser - ändlig mängd: återvinningsbar (mineraler), icke återvinningsbar (fossil energi)
 ////
 Vad menas med resursbas och reserv för en metall eller mineral?
 //

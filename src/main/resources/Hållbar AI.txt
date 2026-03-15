@@ -6,4 +6,3 @@ På vilket sätt kan AI ha negativ påverkan på miljömässig och social hållb
 //
 Miljömässigt: Datacenter → energiförbrukning
 Socialt: Eliminera jobbmöjligheter, “överautomatisering”
-////
